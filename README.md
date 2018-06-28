@@ -22,7 +22,7 @@ I have applied the KNN algorithm which predicts the data depending of its neighb
 
 1. Imported various libraries Numpy, Pandas, Sci-Kit Learn, Matlpotlib
 2. Read the data from csv file 
-3. Since the data is free on missing values scaled and fitted the data for normalization
-4. Imported the preprocessing for testing and training the 
+3. Since the data is free from missing values scaled and fitted the data for normalization
+4. Imported the preprocessing for testing and training the dataset
 5. Applied the KNN algorithm to predict the outcome
 6. Mapped with confusion matrix for accuracy of the predicted outcome
